@@ -14,7 +14,7 @@ rm -rf hardware/qcom-caf/sm8450/audio/pal && git clone https://github.com/unmove
 
 # Device Tree
 echo 'Cloning Device Tree'
-git clone https://github.com/solstxce/android_device_xiaomi_garnet -b horizondevice/xiaomi/garnet
+git clone https://github.com/solstxce/android_device_xiaomi_garnet -b horizon device/xiaomi/garnet
 
 # Vendor Tree
 echo 'Cloning Vendor Tree'
